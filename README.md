@@ -49,27 +49,19 @@ Chrome Extension: Content scripts extract webpage features; background scripts m
 
 ## System Architecture
 
-![Screenshot 2025-05-20 220558](https://github.com/user-attachments/assets/27c969c7-ebeb-41bf-8df6-a137341bcfae)
-
+![Screenshot 2025-05-23 180506](https://github.com/user-attachments/assets/0b9255dd-59d2-4147-963c-f489332356a6)
 
 
 ## Output
 
-#### Output - Home Page
-![Screenshot 2025-05-21 233008](https://github.com/user-attachments/assets/badf4d1d-5e25-4322-8494-ac31354fd61a)
+#### Output - Result Popup On Safe Websites 
+![Screenshot 2025-05-23 180549](https://github.com/user-attachments/assets/05d4510c-ba28-4890-baf9-e801a43f4367)
 
 
-#### Output - Admin Login 
-![Screenshot 2025-05-21 232903](https://github.com/user-attachments/assets/e47c154c-086b-4735-8402-7127e4404389)
+#### Output - Result Popup On Phishing Websites
+![Screenshot 2025-05-23 180618](https://github.com/user-attachments/assets/2b83315e-6a8f-45bb-a05a-2a159fe3f278)
 
-#### Output - Adding Directory Page
-![Screenshot 2025-05-21 233053](https://github.com/user-attachments/assets/dbc9ae57-970c-4839-af76-12585d35d352)
 
-#### Output - Malware Detected Popup
-![Screenshot 2025-05-21 233211](https://github.com/user-attachments/assets/3e80e44b-4411-497e-9567-df1a6421686c)
-
-#### Output - File Hidden Popup
-![Screenshot 2025-05-21 233248](https://github.com/user-attachments/assets/12f0f81f-7059-4744-9ee9-72af71b311ea)
 
 ## 📈 Impacts and Results
 Achieved F1 Score of 0.886 on client-side test data
